@@ -63,7 +63,8 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 ![Azure-bot](https://github.com/Fahad7017/Scent-craft/assets/144935640/eefe14c0-f294-46d4-919e-5761890bc3f1)
 
 # Test in web
-![test in webchat](https://github.com/Reyan2354/project-scent_craft/assets/144935640/ecfea909-19f0-4789-b6ec-8eeeeaaa7a5f)
+![tw-1](https://github.com/Fahad7017/Scent-craft/assets/144935640/aafb2b27-f33f-476e-8f7e-46fda6362de3)
+
 
 # Resource Visualizer
 ![Resource Visualizer](https://github.com/Fahad7017/Scent-craft/assets/144935640/555e54bf-c341-4adb-a937-b3416200d216)
@@ -74,16 +75,17 @@ Here I am attaching the working SS of our website
 # Live project
 
 # Home page
-![homepage](https://github.com/Reyan2354/project-scent_craft/assets/144935640/9d083529-ba6d-4b58-9fa8-7533a55dafbc)
+![homepage-1](https://github.com/Fahad7017/Scent-craft/assets/144935640/d60ef170-dfa6-4323-bc9c-e16d8b29505c)
 
 # About us
-![Aboutus](https://github.com/Reyan2354/project-scent_craft/assets/144935640/61254bbb-a183-49fa-886d-c1831035a738)
+![ab-1](https://github.com/Fahad7017/Scent-craft/assets/144935640/32b3221d-0c6b-4534-b8c7-ee09a9ff0274)
 
 # Categories
-![categories](https://github.com/Reyan2354/project-scent_craft/assets/144935640/bb789f49-3647-4d02-8f30-9920b49bfba3)
+![cat-1](https://github.com/Fahad7017/Scent-craft/assets/144935640/5ebfb743-2917-47ed-ba69-63ff5449c1d1)
 
 # Brands
-![Brands](https://github.com/Reyan2354/project-scent_craft/assets/144935640/83fa2a51-a060-4615-9654-2e5676e70688)
+![b-1](https://github.com/Fahad7017/Scent-craft/assets/144935640/db70838a-d737-4c06-b08d-5d908f797530)
+
 
 
 
