@@ -4,7 +4,7 @@ Welcome to our exquisite world of fragrances, where each scent tells a unique st
 # project-Details
 1. Project Demo URL: https://scent017.z13.web.core.windows.net/
 2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
-3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
+3. GitHub Repository URL:https://github.com/Fahad7017/Scent-craft
 4. Industry: lifestyle - Perfumes
 
 # Roles and responsibilities
