@@ -39,3 +39,52 @@ Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical dat
 
 # Azure AI Service
 Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
+
+# Screenshot’s:
+# Storage Account
+![storage-account](https://github.com/Fahad7017/Scent-craft/assets/144935640/118b8380-7dfb-4de6-825a-6f02bad1b822)
+
+# Static website
+![static-website](https://github.com/Fahad7017/Scent-craft/assets/144935640/101debab-4099-4807-a092-797b51eaf30b)
+
+# container
+![web-container](https://github.com/Fahad7017/Scent-craft/assets/144935640/2877abdd-ff50-4676-b98e-febdac193890)
+
+# Backup vault
+![backup-vault](https://github.com/Fahad7017/Scent-craft/assets/144935640/df04c8c3-d933-446e-bcd5-ab759f2fb090)
+
+# Role Assignment
+![Role Assignment](https://github.com/Fahad7017/Scent-craft/assets/144935640/80f6af86-e230-4169-bd8f-8703a63db142)
+
+# Backup Policy
+![Backup-policy](https://github.com/Fahad7017/Scent-craft/assets/144935640/9de86ca1-9f5f-4517-9862-7f5b1a3ef446)
+
+# Azure Bot
+![Azure-bot](https://github.com/Fahad7017/Scent-craft/assets/144935640/eefe14c0-f294-46d4-919e-5761890bc3f1)
+
+# Test in web
+![test in webchat](https://github.com/Reyan2354/project-scent_craft/assets/144935640/ecfea909-19f0-4789-b6ec-8eeeeaaa7a5f)
+
+# Resource Visualizer
+![Resource Visualizer](https://github.com/Fahad7017/Scent-craft/assets/144935640/555e54bf-c341-4adb-a937-b3416200d216)
+
+# Description
+Here I am attaching the working SS of our website
+
+# Live project
+
+# Home page
+![homepage](https://github.com/Reyan2354/project-scent_craft/assets/144935640/9d083529-ba6d-4b58-9fa8-7533a55dafbc)
+
+# About us
+![Aboutus](https://github.com/Reyan2354/project-scent_craft/assets/144935640/61254bbb-a183-49fa-886d-c1831035a738)
+
+# Categories
+![categories](https://github.com/Reyan2354/project-scent_craft/assets/144935640/bb789f49-3647-4d02-8f30-9920b49bfba3)
+
+# Brands
+![Brands](https://github.com/Reyan2354/project-scent_craft/assets/144935640/83fa2a51-a060-4615-9654-2e5676e70688)
+
+
+
+
